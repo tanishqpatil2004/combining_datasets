@@ -66,20 +66,6 @@ Through systematic data merging, feature engineering, and model evaluation, the 
 
 ```
 ├── Internshala.ipynb        # Main analysis notebook
-├── data/
-│   ├── bitcoin_sentiment.csv
-│   ├── hyperliquid_trades.csv
 └── README.md
 ```
 
----
-
-## 👨‍💻 Author
-
-**Tanishq Patil**  
-B.Tech in Artificial Intelligence and Machine Learning  
-Manipal University Jaipur  
-
----
-
-⭐ *If you find this project insightful, feel free to fork, star, or contribute!*
